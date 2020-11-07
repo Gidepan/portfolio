@@ -1,6 +1,12 @@
 $primary-color: #444;
 
+* {
+  box-sizing: border-box;
+}
+
 body {
   background: $primary-color;
   color: #ffffff;
+  height: 100%;
+  margin: 0;
 }
