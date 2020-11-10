@@ -1,9 +1,10 @@
 @import "config";
+@import "menu";
 
 body {
   @include background;
   background: $primary-color;
-  color: #ffffff;
+  color: #fff;
   height: 100%;
   margin: 0;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
