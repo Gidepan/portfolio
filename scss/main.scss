@@ -168,11 +168,13 @@ main {
   @extend .btn;
   background: darken($primary-color, 50);
   color: #fff;
+  transition: ease-out 1s;
 }
 .btn-light {
   @extend .btn;
   background: lighten($primary-color, 50);
   color: #333;
+  transition: ease-out 1s;
 }
 #main-footer {
   text-align: center;

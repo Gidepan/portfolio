@@ -223,11 +223,13 @@ main {
 
 .btn-dark {
   background: #6f650e;
-  color: #fff; }
+  color: #fff;
+  transition: ease-out 1s; }
 
 .btn-light {
   background: white;
-  color: #333; }
+  color: #333;
+  transition: ease-out 1s; }
 
 #main-footer {
   text-align: center;
