@@ -61,7 +61,7 @@
   }
 }
 
-// rotated smartphone
+/* rotated smartphone
 @include rotate {
   main {
     align-items: center;
@@ -104,7 +104,9 @@
   .projects {
     grid-template-columns: repeat(2, 1fr);
   }
+  
 }
+*/
 //smartphone
 @include mediaSm {
   main#home h1 {
