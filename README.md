@@ -1,2 +1,2 @@
-# portifolio
-Pesonal Professional details
+# Portifolio
+Pesonal Professional Details
