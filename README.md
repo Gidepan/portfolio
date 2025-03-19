@@ -1,2 +1,0 @@
-# Portfolio
-Pesonal Professional Details
